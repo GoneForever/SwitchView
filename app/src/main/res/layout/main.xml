@@ -1,0 +1,14 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ff686868">
+
+    <hd.switchview.SwitchView
+        android:id="@+id/sv"
+        android:layout_width="100dp"
+        android:layout_height="30dp"
+        android:layout_centerInParent="true"
+        android:background="#ffffff" />
+
+</RelativeLayout>
